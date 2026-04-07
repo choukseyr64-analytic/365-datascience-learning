@@ -1,1 +1,2 @@
-365 data science learing daily update
+
+| Day 1 | Learned about different terms used in Business Analytics and Data Science |  | ✅ |
